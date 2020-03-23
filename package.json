@@ -1,1 +1,6 @@
-
+{
+  "name": "Bus-tracker",
+  "description":"SCOE",
+  "keywords":"Realtime bus tracker",
+  "template": "node".
+}
